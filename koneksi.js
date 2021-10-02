@@ -6,6 +6,7 @@ const conn = mysql.createConnection({
     user : 'root',
     password :'',
     database :'dbrestapi',
+    port : '3307',
 }
   );
 
