@@ -1,2 +1,2 @@
 # apprestapi
-latihan membuat aplikasi rest api
+I create backend with Node JS for training for educational need
